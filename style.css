@@ -1584,10 +1584,10 @@ ul.listing-style.modify li:before {
   color: #21a7d0;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover:before {
-  content: "-";
+  /*content: "-";*/
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:before {
-  content: "+";
+  /*content: "+";*/
   position: absolute;
   left: auto;
   right: 0;
@@ -10235,7 +10235,7 @@ body .modal-backdrop {
   right: 0;
 }
 .rs-counter .counter-item .rs-count.plus:before {
-  content: '+';
+  /*content: '+';*/
 }
 .rs-counter .counter-item .rs-count.kplus:before {
   content: 'k+';
